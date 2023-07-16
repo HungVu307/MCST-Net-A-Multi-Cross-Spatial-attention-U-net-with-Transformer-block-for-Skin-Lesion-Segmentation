@@ -19,6 +19,9 @@ having a small number of parameters in addition to providing
 great performance on the two well-known datasets, ISIC 2018
 and PH2
 # Our contributions:
+![image](https://github.com/HungVu307/MCST-Net-A-Multi-Cross-Spatial-attention-U-net-with-Transformer-block-for-Skin-Lesion-Segmentation/assets/106971509/84c73788-44e6-4d59-b74c-e1ef90e31b55)
+
+
 - We present a new multi-cross-spatial attention block
 based on the notion of attention in image segmentation,
 which collects information from several encoder layers
