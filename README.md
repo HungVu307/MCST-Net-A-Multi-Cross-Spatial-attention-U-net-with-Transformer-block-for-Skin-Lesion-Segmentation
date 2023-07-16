@@ -40,4 +40,12 @@ has just 16M parameters, whereas other U-shape mod-
 els require about or over 30M parameters to provide
 decent performance
 # Results
+![image](https://github.com/HungVu307/MCST-Net-A-Multi-Cross-Spatial-attention-U-net-with-Transformer-block-for-Skin-Lesion-Segmentation/assets/106971509/59118ef1-3c3b-4e0e-b501-63985362ea98)
+
+![image](https://github.com/HungVu307/MCST-Net-A-Multi-Cross-Spatial-attention-U-net-with-Transformer-block-for-Skin-Lesion-Segmentation/assets/106971509/e4d10b91-30fa-42bc-ba44-d64432f4628a)
+
+![image](https://github.com/HungVu307/MCST-Net-A-Multi-Cross-Spatial-attention-U-net-with-Transformer-block-for-Skin-Lesion-Segmentation/assets/106971509/a9c94f3b-9706-4a6b-99af-072199252082)
+
+![image](https://github.com/HungVu307/MCST-Net-A-Multi-Cross-Spatial-attention-U-net-with-Transformer-block-for-Skin-Lesion-Segmentation/assets/106971509/214f0b3b-903d-45ba-94be-0c28b3389599)
+
 # Citation
